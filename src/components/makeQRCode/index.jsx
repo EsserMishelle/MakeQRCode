@@ -22,7 +22,7 @@ export default function MakeQRCode() {
       />
 
       <button disabled={!input.trim()} onClick={handleMakeQrCode}>
-        Make Qr Code
+        Make QR Code
       </button>
       <br />
       <br />
